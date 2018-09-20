@@ -1,5 +1,6 @@
 package practise;
 
+// June
 public class GreatCommonDivisor {
 	public static int getGCD(int val1, int val2) {
 		while(val1 != 0 && val2 != 0) {
